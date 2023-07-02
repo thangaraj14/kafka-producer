@@ -2,9 +2,7 @@
 Kafka Producer
 This is a simple Kafka producer application that produces messages to a topic.
 
-Requirements
-Java 11
-Apache Kafka
-Instructions
-Clone the repository.
-Install the dependencies.
+Java | Spring-boot | Gradle | Kafka
+
+curl --request GET \
+  --url http://localhost:8082/produce
